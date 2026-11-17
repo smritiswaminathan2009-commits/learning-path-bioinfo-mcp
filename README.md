@@ -47,7 +47,3 @@ Then open Cursor Settings, go to Tools and MCP, and turn on `learning-path`. In 
     Use the learning-path tool to generate a 4 week learning path for bioinformatics at beginner level
 
 Note: this project uses `mcp<2`, because `FastMCP` was renamed in mcp 2.x.
-
-## Screenshots
-
-See the `screenshots` folder: Cursor project folder, Streamlit input, Streamlit result, and the Cursor agent calling the MCP tool.
